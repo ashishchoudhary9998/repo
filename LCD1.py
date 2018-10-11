@@ -98,7 +98,7 @@ def lcd_string(message,line):
     lcd_display(ord(message[i]),LCD_CHR)
 
 from random import choice
-li = ['shud','anshu','shaw','raj','mohan','prasad',]
+li = ['shud','ashish','shaw','raj','mohan','prasad',]
 try:
 	while True:
 		lcd_init()
