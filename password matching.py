@@ -5,7 +5,7 @@ io.setwarnings(False)
 
 io.setmode(io.BOARD)
 
-password="9567"
+password="3456"
 count=0
 c1=3
 c2=5
