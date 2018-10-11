@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 import RPi.GPIO as io
 
 io.setwarnings(False)
